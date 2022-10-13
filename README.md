@@ -1,6 +1,6 @@
 # Let-s-play-GANs
 ### Objective
-Generate synthetic dice pictures by different types of GANs\\
+Generate synthetic dice pictures by different types of GANs<br>
 In this repo, I implemented mixture of GANs and conditional GANs.
 
 ### Introduction
