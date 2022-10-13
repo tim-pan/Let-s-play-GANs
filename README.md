@@ -16,7 +16,7 @@ Files:
 9. new_acgan+dcgan.py: change the loss function based on architecture:acgan+dcgan
 
 Folders:
-10. cgan_srgan: some bad results. Perhapes some logic errors.
-11. cgan_dcgan_wgan: results are not promising.
-12. cgan_dcgan: results are not promising.
-13. acgan_dcgan: Convincing result with auxiliary loss function. (Final submission to TA)
+1. cgan_srgan: some bad results. Perhapes some logic errors.
+2. cgan_dcgan_wgan: results are not promising.
+3. cgan_dcgan: results are not promising.
+4. acgan_dcgan: Convincing result with auxiliary loss function. (Final submission to TA)
